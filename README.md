@@ -1,8 +1,10 @@
 # Portfolio Biodiversity Impact Score (PBIS) for banks in Indonesia, Malaysia and Singapore
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24242785.svg)](https://doi.org/10.5281/zenodo.24242785)
+
 Data and code for the paper:
 
-> T. R. D. Cahyaningtyas and N. A. Rizal, "Portfolio Biodiversity Impact Assessment and Unsupervised Learning for Banks in Indonesia, Malaysia, and Singapore," in *Proc. [Conference name]*, 2026.
+> T. R. D. Cahyaningtyas and N. A. Rizal, "Portfolio Biodiversity Impact Assessment and Unsupervised Learning for Banks in Indonesia, Malaysia, and Singapore," in *Proc. 2026 6th International Conference on Intelligent Cybernetics Technology & Applications (ICICyTA)*, 2026.
 
 PBIS combines ENCORE pressure ratings with the sector mix of each bank's business lending. It is a relative index of how much of a loan book sits in sectors that put material pressure on nature. It does not measure actual biodiversity loss or financial risk.
 

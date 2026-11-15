@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+message: "If you use this data or code, please cite the paper below."
+title: "Portfolio Biodiversity Impact Score (PBIS): data and code"
+authors:
+  - family-names: "Cahyaningtyas"
+    given-names: "Titis Ruci Dewi"
+    affiliation: "Telkom University"
+    orcid: "https://orcid.org/0009-0001-5443-5013"
+  - family-names: "Rizal"
+    given-names: "Nora Amelda"
+    affiliation: "Telkom University"
+    orcid: "https://orcid.org/0000-0002-0654-2922"
+version: "1.0.0"
+date-released: "2026-11-15"
+license: MIT
+preferred-citation:
+  type: conference-paper
+  title: "Portfolio Biodiversity Impact Assessment and Unsupervised Learning for Banks in Indonesia, Malaysia, and Singapore"
+  authors:
+    - family-names: "Cahyaningtyas"
+      given-names: "Titis Ruci Dewi"
+    - family-names: "Rizal"
+      given-names: "Nora Amelda"
+  collection-title: "[Conference proceedings]"
+  year: 2026
